@@ -10,6 +10,7 @@ Simple app that calculates your departure time based on your arrival and predefi
 ## Notes
   Working hours are predefined in the code and cannot be changed by the user.
   The app does not consider breaks or overtime adjustments.
+  The app is in Czech language.
 
 ## License
   This project is licensed under the MIT License.
